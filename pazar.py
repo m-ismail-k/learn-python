@@ -18,4 +18,4 @@ tofaş.Gazabas()
 
 # a=Araba()
 # print(a.marka)
-Araba.marka="bugatti"
+Araba.marka="mercedes"
